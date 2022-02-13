@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is **Sergey**
 #### I am web deweloper
-![I am web deweloper]
 
 
 Skills: TYPESCRIPT / REACT / JS / HTML / CSS
