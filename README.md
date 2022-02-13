@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is **Sergey**
 #### I am web deweloper
-![I am web deweloper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am web deweloper]
 
 
 Skills: TYPESCRIPT / REACT / JS / HTML / CSS
