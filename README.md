@@ -7,7 +7,6 @@ Skills: TYPESCRIPT / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?Rumata-SL=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rumata-SL)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rumata-SL)](https://github.com/anuraghazra/github-readme-stats)
