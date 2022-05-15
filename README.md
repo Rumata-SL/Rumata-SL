@@ -2,7 +2,7 @@
 #### I am web deweloper
 
 
-Skills: TYPESCRIPT / REACT / JS / HTML / CSS
+Skills: TYPESCRIPT / REACT / REDUX / JEST / JS / HTML / CSS
 
 - 🔭
 
