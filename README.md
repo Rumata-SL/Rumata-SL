@@ -13,7 +13,7 @@ Skills: TYPESCRIPT / REACT / REDUX / JEST / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rumata-SL&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rumata-SL)  
-<div width="40" height="40">
+<div style="color: red">
 ![Profile views](https://gpvc.arturio.dev/Rumata-SL)  
   </div>
 -->
