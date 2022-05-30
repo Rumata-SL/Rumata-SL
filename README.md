@@ -13,8 +13,9 @@ Skills: TYPESCRIPT / REACT / REDUX / JEST / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rumata-SL&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rumata-SL)  
-
+<div width="40" height="40">
 ![Profile views](https://gpvc.arturio.dev/Rumata-SL)  
+  </div>
 -->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
