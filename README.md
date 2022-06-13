@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is **Sergey**
-#### I am WEB DEWELOPER
+#### I am front-end deweloper
 
 
 Skills: TYPESCRIPT / REACT / REDUX / JEST / JS / HTML / CSS
