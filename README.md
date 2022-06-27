@@ -11,14 +11,11 @@ Skills: TYPESCRIPT / REACT / REDUX / JEST / JS / HTML / CSS
 <div>
   <a href="https://profile-summary-for-github.com/user/Rumata-SL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumata-SL&layout=compact&langs_count=7&theme=dark&bg_color=000&title_color=fff&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rumata-SL&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff">
+  <img height="180em" height="360em" src="https://github-readme-stats.vercel.app/api?username=Rumata-SL&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff">
+  <br>
+  <img width="822em" src="https://activity-graph.herokuapp.com/graph?username=luizgustavoabreu&theme=dark&bg_color=000&title_color=fff&text_color=fff" />
   </a>
 </div>
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rumata-SL) 
-
- 
--->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
