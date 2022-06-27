@@ -9,7 +9,7 @@ Skills: TYPESCRIPT / REACT / REDUX / JEST / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rumata-SL)  
 
 <div>
-  <a href="https://github.com/pauloalmeidasilva">
+  <a href="https://github.com/Rumata-SL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumata-SL&layout=compact&langs_count=7&theme=dark&bg_color=000&title_color=fff&text_color=fff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rumata-SL&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff">
   </a>
