@@ -14,7 +14,7 @@ Skills: TYPESCRIPT / REACT / REDUX / JEST / JS / HTML / CSS
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rumata-SL&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff">
   <br>
    <br>
-  <img width="842em" src="https://activity-graph.herokuapp.com/graph?username=Rumata-SL&theme=dark&bg_color=000&title_color=fff&text_color=fff" />
+  <img width="842em" src="https://activity-graph.herokuapp.com/graph?username=Rumata-SL&theme=xcode&bg_color=000" />
   </a>
 </div>
 <br>
