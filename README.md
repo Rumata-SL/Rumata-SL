@@ -5,8 +5,9 @@
 Skills: TYPESCRIPT / REACT / REDUX / JEST / JS / HTML / CSS
 
 - 🔭
+ ##
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rumata-SL}/count.svg" /></p>
-##
+
 <div align="center">
   <a href="https://profile-summary-for-github.com/user/Rumata-SL">
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumata-SL&layout=compact&langs_count=7&theme=dark&bg_color=000&title_color=fff&text_color=fff"/>
