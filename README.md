@@ -1,10 +1,10 @@
-### Hi there 👋, my name is **Sergey**
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Sergey Dev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+### Hi there, my name is **Sergey**
 #### I am front-end deweloper
 
+JS / TYPESCRIPT / REACT / REDUX  / HTML / CSS
 
-Skills: TYPESCRIPT / REACT / REDUX / JEST / JS / HTML / CSS
-
-- 🔭
  ##
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rumata-SL}/count.svg" /></p>
 
