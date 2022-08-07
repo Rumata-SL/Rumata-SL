@@ -1,9 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Sergey Dev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi+there;i'm+SERGEY;I++FRONT-END+DEVELOPER;%29)](https://git.io/typing-svg) 
-
-### Hi there, my name is **Sergey**
-#### I am front-end deweloper
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE;MY+NAME+IS+SERGEY;I+AM+FRONT-END+DEVELOPER;%29)](https://git.io/typing-svg) 
 
 JS / TYPESCRIPT / REACT / REDUX  / HTML / CSS
 
