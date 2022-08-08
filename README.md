@@ -1,7 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header&text=SergeyDev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=30"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=130&section=header&text=SergeyDev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=30"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=8000&color=00ffff&size=25&center=true&vCenter=true&width=1000&lines=HI+THERE+MY+NAME+IS+SERGEY;I+AM+FRONT-END+DEVELOPER;JS+/+TYPESCRIPT+/+REACT+/+REDUX+/+HTML+/+CSS)](https://git.io/typing-svg) 
- ##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=8000&color=00ffff&size=25&center=true&vCenter=true&width=1000&lines=HI+THERE+MY+NAME+IS+SERGEY;I+AM+FRONT-END+DEVELOPER;JS+/+TYPESCRIPT+/+REACT+/+REDUX+/+HTML+/+CSS)](https://git.io/typing-svg)
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rumata-SL}/count.svg" /></p>
 
 <div align="center">
