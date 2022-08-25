@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=130&section=header&text=Rumata&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=30"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=8000&color=00ffff&size=25&center=true&vCenter=true&width=1000&lines=HI+THERE+MY+NAME+IS+SERGEY;I+AM+FRONT-END+DEVELOPER;JS+/+TYPESCRIPT+/+REACT+/+REDUX+/+HTML+/+CSS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=8000&color=00ffff&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE+MY+NAME+IS+SERGEY;I+AM+FRONT-END+DEVELOPER;JS+/+TYPESCRIPT+/+REACT+/+REDUX+/+HTML+/+CSS)](https://git.io/typing-svg)
 <div align="center">
  <hr>
   <a href="https://profile-summary-for-github.com/user/Rumata-SL">
