@@ -30,5 +30,7 @@
   <hr>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rumata-SL}/count.svg" /></p>
 </div>
+<a href="https://www.codewars.com/users/rumata-sl" target="_blank">
 <img  src="https://www.codewars.com/users/rumata-sl/badges/large" width="300"/>
+</a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
