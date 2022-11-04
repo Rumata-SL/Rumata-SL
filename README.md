@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Sergey%20Lalakin&fontSize=40&fontColor=00ffff&animation=twinkling&fontAlignY=30&fontAlign=20"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=8000&color=00ffff&size=30&width=1000&lines=HI+THERE+MY+NAME+IS+SERGEY;I+AM+FRONT-END+DEVELOPER;JS+/+TYPESCRIPT+/+REACT+/+REDUX+/+HTML+/+CSS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=8000&color=00ffff&size=24&width=1000&lines=<+Hi+there+my+name+is+Sergey+/+>;<+I+am+front+end+developer+/+>)](https://git.io/typing-svg)
 <div align="center">
  <hr>
   <a href="https://profile-summary-for-github.com/user/Rumata-SL">
